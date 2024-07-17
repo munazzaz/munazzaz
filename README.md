@@ -1,11 +1,11 @@
 👋 Hi, I’m 𝐌𝐮𝐧𝐚𝐳𝐳𝐚 𝐙𝐚𝐡𝐢𝐝 @munazzaz Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer,
 always eager to explore new technologies and bring innovative ideas to life.
 
-## **👀 About Me:**
+### **👀 About Me:**
 -  I specialize in Full Stack Web Development and am particularly keen on projects
    that challenge my skills and push the boundaries of technology.
   
-## 🌱 Currently Learning:
+### 🌱 Currently Learning:
 -  I'm diving deep into Cloud Applied GEN AI, expanding my expertise to
    leverage the power of artificial intelligence in cloud computing.
    
