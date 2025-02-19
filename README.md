@@ -1,4 +1,4 @@
-👋 Hi, I’m 𝐌𝐮𝐧𝐚𝐳𝐳𝐚 𝐙𝐚𝐡𝐢𝐝 @munazzaz Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer,
+👋 Hi, Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer,
 always eager to explore new technologies and bring innovative ideas to life.
 
 ### **👀 About Me:**
