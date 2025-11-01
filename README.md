@@ -9,7 +9,7 @@ always eager to explore new technologies and bring innovative ideas to life.
 - I'm looking to collaborate on exciting projects!
   
 ### 📫 How to Reach Me:
-- Feel free to connect with me via LinkedIn (www.linkedin.com/in/munazza-zahid-full-stack-webdevelopment)
+- Feel free to connect with me via LinkedIn
 
 ### 😄 Pronouns:
 - She/her
