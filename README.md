@@ -1,5 +1,5 @@
-👋 Hi, Welcome to my GitHub profile! I'm a passionate Full Stack AI Engineer,
-always eager to explore new technologies and bring innovative ideas to life.
+👋 Hi, Welcome to my GitHub profile! I'm a passionate Full Stack AI Engineer (MERN/JAM) focused on,
+always excited to explore new technologies and bring innovative ideas to life.
 
 ### **👀 About Me:**
 -  I specialize in Full Stack Web Development, Cloud Applied Gen AI Development and AI Agent Development and am keen on projects or jobs 
